@@ -21,7 +21,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Rouge Access Point (OSINT)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>Multi-numeral (Crytography)</b>
+- <b>Multi-Numeral (Crytography)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2>Certifications</h2>
