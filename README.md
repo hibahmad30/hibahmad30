@@ -31,7 +31,7 @@
 
 <h2>I’m currently working on ...</h2>
 
-- [Splunk Core Certified Power User Certification](https://www.splunk.com/en_us/training/certification-track/splunk-core-certified-power-user.html)
+- [Splunk Core Certified Power User Certification](https://www.linkedin.com/pulse/how-i-passed-splunk-core-certified-power-user-first-you-void-cissp/)
 
 <!--
 
