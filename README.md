@@ -10,9 +10,18 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>SHA-256 File Integrity Checker in Python</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>Random Password Generator and Hasher in Python</b>
+- <b>Hash Cracker in Python</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-
+- <b>Automating User Permissions with Windows & Linux</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Configuring Firewall Rules with Windows & Linux</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>NIST 800-53 Password Compliance in Python</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>SQL Vulnerability Assessment and Analysis</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Encrypting and Decrypting a Caesar Cipher using Python</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2>PatriotCTF 2023 Write-ups</h2>
 <p>Here are some write-ups for the challenges I solved during the PatriotCTF 2023 competition, a Jeopardy-style CTF organised by the MasonCC (Mason Competitive Cyber) club at George Mason University:</p>
