@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>NIST RMF: Risk Assessment of AWS EC2 Linux Instance</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>MITRE ATT&CK Framework: APT Group TTPs Lookup Tool</b>
+- <b>Cyber Threat Intelligence: An In-Depth Analysis of APT 12</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>SHA-256 File Integrity Checker in Python</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
