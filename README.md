@@ -4,23 +4,17 @@
 
 - <b>Nessus Vulnerability Management and Analysis</b> 
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>NIST RMF: Risk Assessment of AWS EC2 Linux Instance</b>
+- <b>Configure Amazon EC2 Instances with Security Groups</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Cyber Threat Intelligence: An In-Depth Analysis of APT 12</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>SHA-256 File Integrity Checker in Python</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>Hash Cracker in Python</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Automating User Permissions with Windows & Linux</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Configuring Firewall Rules with Windows & Linux</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>NIST 800-53 Access Control Configuration in Python</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>SQL Vulnerability Assessment and Analysis</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>Encrypting and Decrypting a Caesar Cipher using Python</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2>PatriotCTF 2023 Write-ups</h2>
