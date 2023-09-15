@@ -8,7 +8,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Cyber Threat Intelligence: An In-Depth Analysis of APT 12</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>SHA-256 File Integrity Checker in Python</b>
+- <b>SHA-256 File Integrity Checker in Python ✅</b>
   - [Automate File Verification with Hashlib](https://github.com/hiba-ahmad1/FileIntegrityChecker/)
 - <b>Automate User Permissions with Windows & Linux</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
