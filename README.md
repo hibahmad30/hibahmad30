@@ -6,11 +6,11 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SHA-256 File Integrity Checker in Python ✅</b>
   - [Automate File Verification with Hashlib](https://github.com/hiba-ahmad1/FileIntegrityChecker/)
-- <b>Configure Firewall Rules in Linux</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Configure Amazon EC2 Instances with Security Groups</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Cyber Threat Intelligence: An In-Depth Analysis of APT 12</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Configure Firewall Rules in Linux</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2>PatriotCTF 2023 Write-ups</h2>
