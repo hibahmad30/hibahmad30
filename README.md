@@ -3,7 +3,7 @@
 <h2>Cybersecurity Projects</h2>
 
 - <b>Nessus Vulnerability Management and Analysis</b> 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Assess and Remediate a Vulnerable Windows 10 System](https://github.com/hiba-ahmad1/NessusVulnManagement)
 - <b>SHA-256 File Integrity Checker in Python ✅</b>
   - [Automate File Verification with Hashlib](https://github.com/hiba-ahmad1/FileIntegrityChecker/)
 - <b>Configure Amazon EC2 Instances with Security Groups</b>
