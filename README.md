@@ -18,7 +18,7 @@
 
 - <b>Breakfast Club (Cryptography) ✅</b>
   - [Hash Cracking with Python and Web-based Tools](https://github.com/hiba-ahmad1/BreakfastClubCTF/)
-- <b>Rouge Access Point (OSINT)</b>
+- <b>Rouge Access Point (OSINT) ✅</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Multi-Numeral (Crytography)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
