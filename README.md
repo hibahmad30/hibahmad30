@@ -21,7 +21,7 @@
 - <b>Rouge Access Point (OSINT) ✅</b> 
   - [Utilizing OSINT Tools to Retrieve Network Credentials](https://github.com/hiba-ahmad1/RougeAccessPointCTF)
 - <b>Multi-Numeral (Crytography)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Data Decoding with Cryptii and Python](https://github.com/hiba-ahmad1/MultiNumeralCTF)
 
 <h2>Certifications</h2>
 
