@@ -17,7 +17,7 @@
 <p>Here are some write-ups for the challenges I solved during the PatriotCTF 2023 competition, a Jeopardy-style CTF organised by the MasonCC (Mason Competitive Cyber) club at George Mason University:</p>
 
 - <b>Breakfast Club (Cryptography)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Hash Decryption with Python and Web-based Tools](https://github.com/hiba-ahmad1/BreakfastClubCTF/)
 - <b>Rouge Access Point (OSINT)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Multi-Numeral (Crytography)</b>
