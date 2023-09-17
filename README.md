@@ -14,7 +14,7 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 <h2>PatriotCTF 2023 Write-ups</h2>
-<p>Here are some write-ups for the challenges I solved during the PatriotCTF 2023 competition, a Jeopardy-style CTF organized by the MasonCC (Mason Competitive Cyber) club at George Mason University:</p>
+<p>Here are the write-ups for the challenges I solved during the PatriotCTF 2023 competition, a Jeopardy-style CTF organized by the MasonCC (Mason Competitive Cyber) club at George Mason University:</p>
 
 - <b>Breakfast Club (Cryptography) ✅</b>
   - [Hash Cracking with Python and Web-based Tools](https://github.com/hiba-ahmad1/BreakfastClubCTF/)
