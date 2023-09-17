@@ -20,7 +20,7 @@
   - [Hash Cracking with Python and Web-based Tools](https://github.com/hiba-ahmad1/BreakfastClubCTF/)
 - <b>Rouge Access Point (OSINT) ✅</b> 
   - [Utilizing OSINT Tools to Retrieve Network Credentials](https://github.com/hiba-ahmad1/RougeAccessPointCTF)
-- <b>Multi-Numeral (Crytography)</b>
+- <b>Multi-Numeral (Crytography) ✅</b>
   - [Data Decoding with Cryptii and Python](https://github.com/hiba-ahmad1/MultiNumeralCTF)
 
 <h2>Certifications</h2>
