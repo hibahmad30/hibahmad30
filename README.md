@@ -1,4 +1,5 @@
 <h1>Hi, I'm Hiba! 👋</h1>
+I am a highly motivated senior at George Mason University majoring in Information Technology with a concentration in Cybersecurity. I have gained valuable experience through my internship as a Sys Admin Intern at Raytheon BBN Technologies and my participation in CTF competitions with Mason Competitive Cyber. I am also a Security+ certified professional and am currently working toward getting Splunk certified. I am passionate about technology and cybersecurity, and am eager to learn, grow, and build a more secure and innovative future.
 
 <h2>🔐 Cybersecurity Projects</h2>
 
