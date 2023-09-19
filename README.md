@@ -11,7 +11,6 @@ I am a highly motivated senior at George Mason University majoring in Informatio
   - [The Tactics, Techniques, and Procedures (TTPs) of a State-Sponsored Threat Actor](https://github.com/hiba-ahmad1/APT12Analysis)
 
 <h2>💻 PatriotCTF 2023 Write-ups </h2>
-<p>Here are some write-ups for the challenges I solved during the PatriotCTF 2023 competition, a Jeopardy-style CTF organized by the MasonCC (Mason Competitive Cyber) club at George Mason University:</p>
 
 - <b>Breakfast Club (Cryptography) </b>
   - [Hash Cracking with Python and Web-based Tools](https://github.com/hiba-ahmad1/BreakfastClubCTF/)
