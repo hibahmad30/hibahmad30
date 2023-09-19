@@ -8,7 +8,7 @@ I am a highly motivated senior at George Mason University majoring in Informatio
 - <b>SHA-256 File Integrity Checker in Python </b>
   - [Automate File Verification with Hashlib](https://github.com/hiba-ahmad1/FileIntegrityChecker/)
 - <b>Cyber Threat Intelligence: Analysis of APT 12 </b>
-  - [The Tactics, Techniques, and Procedures (TTPs) of a State-Sponsored Threat Actor](https://github.com/hiba-ahmad1/APT12Analysis)
+  - [Assessing the TTPs of a State-Sponsored Threat Actor](https://github.com/hiba-ahmad1/APT12Analysis)
 
 <h2>💻 PatriotCTF 2023 Write-ups </h2>
 
