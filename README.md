@@ -26,7 +26,7 @@ I am a highly motivated student and IT professional with a passion for technolog
 
 <h2>📝 I’m currently working on ... </h2>
 
-- [Splunk Core Certified Power User Certification](https://www.linkedin.com/pulse/how-i-passed-splunk-core-certified-power-user-first-you-void-cissp/)
+- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 <!--
 
