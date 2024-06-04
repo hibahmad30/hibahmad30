@@ -1,5 +1,5 @@
 <h1>Hi, I'm Hiba! 👋</h1>
-I am a highly motivated student and IT professional with a passion for technology and cybersecurity. I have gained valuable experience through my internship as a Sys Admin Intern at Raytheon BBN Technologies and my participation in CTF competitions with Mason Competitive Cyber. I am also Security+ certified and am currently working toward getting Splunk certified. I am eager to learn, grow, and build a more secure and innovative future. 
+I am a highly motivated Cybersecurity professional with a passion for technology and cybersecurity. I have gained valuable experience through my internship as a Sys Admin Intern at RTX and my participation in CTF competitions with Mason Competitive Cyber. I am also Security+ certified and am currently working toward getting AWS certified. I am eager to learn, grow, and build a more secure and innovative future. 
 
 <h2>🔑 IAM Projects</h2>
 
