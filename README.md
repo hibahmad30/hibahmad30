@@ -1,7 +1,8 @@
 <h1>Hi, I'm Hiba! 👋</h1>
 I am a highly motivated student and IT professional with a passion for technology and cybersecurity. I have gained valuable experience through my internship as a Sys Admin Intern at Raytheon BBN Technologies and my participation in CTF competitions with Mason Competitive Cyber. I am also Security+ certified and am currently working toward getting Splunk certified. I am eager to learn, grow, and build a more secure and innovative future. 
 
-<h2>🔐 IAM Projects</h2>
+<h2>🔑 IAM Projects</h2>
+
 - <b>Implementing Federation between Azure and Okta </b> 
   - [Assess and Remediate a Vulnerable Windows 10 System](https://github.com/hibahmad30/AzureOktaFederation)
 - <b>SHA-256 File Integrity Checker in Python </b>
