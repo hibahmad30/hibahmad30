@@ -1,5 +1,5 @@
 <h1>Hi, I'm Hiba! 👋</h1>
-I am a highly motivated Cybersecurity professional with a passion for technology and cybersecurity. I have gained valuable experience through my internship as a Sys Admin Intern at RTX and my participation in CTF competitions with Mason Competitive Cyber. I am also Security+ certified and am currently working toward getting AWS certified. I am eager to learn, grow, and build a more secure and innovative future. 
+I am a highly motivated Cybersecurity professional with a passion for technology and building a more secure and innovative future. Leveraging experience in FedRAMP, NIST 800-53, and NIST RMF, I analyze client system architectures to identify security gaps across AWS, Azure, and GCP environments.  I'm skilled in developing System Security Plans (SSPs) and Gap Analyses, and am currently expanding my expertise in Identity & Access Management (IAM) with Microsoft Entra ID (formerly Azure AD), Windows AD, Okta, and Sailpoint IdentityIQ. I am always eager to learn and grow!
 
 <h2>🔑 IAM Projects</h2>
 
