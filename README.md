@@ -8,7 +8,7 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 - <b>On-Prem AD Migration to Microsoft Entra ID (formerly Azure AD)</b>
   - [Streamlining Identity Migration to the Cloud](https://github.com/hibahmad30/ActiveDirectoryMigration/)
 - <b>Deploying and Configuring SailPoint IdentityIQ </b>
-  - [Assessing the TTPs of a State-Sponsored Threat Actor](https://github.com/hibahmad30/APT12Analysis)
+  - [Implementing RBAC and ABAC in SailPoint IdentityIQ](https://github.com/hibahmad30/SailPointIIQ)
 
 
 <h2>🔐 Cybersecurity Projects</h2>
