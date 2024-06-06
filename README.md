@@ -6,7 +6,7 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 - <b>Implementing Federation between Azure and Okta </b> 
   - [Assess and Remediate a Vulnerable Windows 10 System](https://github.com/hibahmad30/AzureOktaFederation)
 - <b>On-Prem Active Directory Migration To Microsoft Entra ID (formerly Azure AD) </b>
-  - [Automate File Verification with Hashlib](https://github.com/hibahmad30/FileIntegrityChecker/)
+  - [Automate File Verification with Hashlib](https://github.com/hibahmad30/ActiveDirectoryMigration/)
 - <b>Deploying and Configuring SailPoint IdentityIQ </b>
   - [Assessing the TTPs of a State-Sponsored Threat Actor](https://github.com/hibahmad30/APT12Analysis)
 
