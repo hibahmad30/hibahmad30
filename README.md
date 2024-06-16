@@ -34,7 +34,7 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 
 <h2>📝 I’m currently working on ... </h2>
 
-- [AWS Certified Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- [Okta Certified Professional- Hands-On Configuration Exam for OIE](https://certification.okta.com/okta-certified-professional-hands-on-configuration-exam-for-oie)
 
 <!--
 
