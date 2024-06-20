@@ -11,6 +11,8 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 
 <h2>🔐 Cybersecurity Projects</h2>
 
+- <b>Unified Log Management Solution with Splunk Enterprise </b> 
+  - [Configuring Sysmon and Splunk Universal Forwarders in AD and Windows 10](https://github.com/hibahmad30/SplunkConfig)
 - <b>Nessus Vulnerability Management and Analysis </b> 
   - [Assess and Remediate a Vulnerable Windows 10 System](https://github.com/hibahmad30/NessusVulnManagement)
 - <b>SHA-256 File Integrity Checker in Python </b>
