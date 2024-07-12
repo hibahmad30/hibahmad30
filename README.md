@@ -7,12 +7,15 @@ I am a highly motivated Cybersecurity professional with a passion for technology
   - [Simplifying Authentication through Federation](https://github.com/hibahmad30/AzureOktaFederation)
 - <b>On-Prem AD Migration to Microsoft Entra ID (formerly Azure AD)</b>
   - [Streamlining Identity Migration to the Cloud](https://github.com/hibahmad30/ActiveDirectoryMigration/)
+ 
+<h2>🔎 Splunk Projects</h2>
+
+- <b>Centralized Log Management Solution with Splunk Enterprise </b> 
+  - [Integrating AD and Windows Client Logs with Splunk for Monitoring and Analysis](https://github.com/hibahmad30/SplunkConfig)
 
 
 <h2>🔐 Cybersecurity Projects</h2>
 
-- <b>Centralized Log Management Solution with Splunk Enterprise </b> 
-  - [Integrating AD and Windows Client Logs with Splunk for Monitoring and Analysis](https://github.com/hibahmad30/SplunkConfig)
 - <b>Nessus Vulnerability Management and Analysis </b> 
   - [Assess and Remediate a Vulnerable Windows 10 System](https://github.com/hibahmad30/NessusVulnManagement)
 - <b>SHA-256 File Integrity Checker in Python </b>
