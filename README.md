@@ -7,6 +7,8 @@ I am a highly motivated Cybersecurity professional with a passion for technology
   - [Simplifying Authentication through Federation](https://github.com/hibahmad30/AzureOktaFederation)
 - <b>On-Prem AD Migration to Microsoft Entra ID (formerly Azure AD)</b>
   - [Streamlining Identity Migration to the Cloud](https://github.com/hibahmad30/ActiveDirectoryMigration/)
+- <b>Automating AD Bulk User Creation with Powershell</b>
+  - [Reducing Administrative Overhead with Automated User Provisioning](https://github.com/hibahmad30/ADAutomation) 
  
 <h2>🔎 Splunk Projects</h2>
 
@@ -17,11 +19,11 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 <h2>🔐 Cybersecurity Projects</h2>
 
 - <b>Nessus Vulnerability Management and Analysis </b> 
-  - [Assess and Remediate a Vulnerable Windows 10 System](https://github.com/hibahmad30/NessusVulnManagement)
+  - [Assessing and Remediating a Vulnerable Windows 10 System](https://github.com/hibahmad30/NessusVulnManagement)
 - <b>SHA-256 File Integrity Checker in Python </b>
-  - [Automate File Verification with Hashlib](https://github.com/hibahmad30/FileIntegrityChecker/)
+  - [Automating File Verification with Hashlib](https://github.com/hibahmad30/FileIntegrityChecker/)
 - <b>Cyber Threat Intelligence: Analysis of APT 12 </b>
-  - [Assessing the TTPs of a State-Sponsored Threat Actor](https://github.com/hibahmad30/APT12Analysis)
+  - [Analyzing the TTPs of a State-Sponsored Threat Actor](https://github.com/hibahmad30/APT12Analysis)
 
 <h2>💻 PatriotCTF 2023 Write-ups </h2>
 
