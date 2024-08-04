@@ -41,7 +41,11 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 
 <h2>📝 I’m currently working on ... </h2>
 
-- [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- [Okta Certified Professional Hands-On Configuration Exam for OIE](https://certification.okta.com/okta-certified-professional-hands-on-configuration-exam-for-oie/)
+    - [Pluralsight - Okta Certified Professional Learning Path](https://www.pluralsight.com/paths/okta-certified-professional)
+    - [Okta Training - Introduction to Okta Course](https://www.okta.com/training/introduction-to-okta-formerly-okta-basics)
+    - [Okta Docs - Okta Identity Engine](https://help.okta.com/oie/en-us/content/topics/identity-engine/oie-index.htm?cshid=csh-oie)
+
 
 <!--
 
