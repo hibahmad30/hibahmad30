@@ -3,7 +3,7 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 
 <h2>🔑 IAM Projects</h2>
 
-- <b>Okta Administration: Onboarding, App Integration, and Automated Provisioning</b>
+- <b>Okta Administration: Onboarding, App Integration, and Provisioning</b>
   - [Integrated SWA and SSO Solutions with Lifecycle Management Automation](https://github.com/hibahmad30/OktaAdministration)
 - <b>Implementing Federation between Azure and Okta </b> 
   - [Simplifying Authentication through Federation](https://github.com/hibahmad30/AzureOktaFederation)
