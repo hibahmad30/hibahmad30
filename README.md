@@ -6,7 +6,7 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 - <b>Implementing Federation between Azure and Okta </b> 
   - [Simplifying Authentication through Federation](https://github.com/hibahmad30/AzureOktaFederation)
 - <b>Okta Administration: Onboarding, App Integration, and Provisioning</b> 
-  - [Integrated SWA and SSO Solutions with Lifecycle Management Automation](https://github.com/hibahmad30/OktaAdministration)
+  - [Integrated SWA and SAML Solutions with Lifecycle Management Automation](https://github.com/hibahmad30/OktaAdministration)
 - <b>On-Prem AD Migration to Microsoft Entra ID (formerly Azure AD)</b>
   - [Streamlining Identity Migration to the Cloud](https://github.com/hibahmad30/ActiveDirectoryMigration/)
 - <b>Automating AD Bulk User Creation with Powershell</b>
