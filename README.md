@@ -5,6 +5,8 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 
 - <b>Integrating Okta and Dropbox Business with SAML</b> 
   - [User Onboarding, SAML Authentication, and Provisioning Automation](https://github.com/hibahmad30/OktaAdministration)
+- <b>Active Directory Integration with Okta</b>  
+  - [Directory Integration with Attribute Mapping for Consistent User Access](https://github.com/hibahmad30/OktaAD)
 - <b>Implementing Federation between Azure and Okta </b> 
   - [Simplifying Authentication through Federation](https://github.com/hibahmad30/AzureOktaFederation)
 - <b>On-Prem AD Migration to Microsoft Entra ID (formerly Azure AD)</b>
