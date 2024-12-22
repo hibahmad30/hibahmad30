@@ -13,14 +13,11 @@ I am a highly motivated Cybersecurity professional with a passion for technology
   - [Streamlining Identity Migration to the Cloud](https://github.com/hibahmad30/ActiveDirectoryMigration/)
 - <b>Automating AD Bulk User Creation with Powershell</b>
   - [Reducing Administrative Overhead with Automated User Provisioning](https://github.com/hibahmad30/ADAutomation)
-
- <h2>🔎 Vulnerability Management Projects</h2>
-
-- <b>Nessus Vulnerability Management and Analysis </b> 
-  - [Assessing and Remediating a Vulnerable Windows 10 System](https://github.com/hibahmad30/NessusVulnManagement)
  
 <h2>🔐 Cybersecurity Projects</h2>
 
+- <b>Nessus Vulnerability Management and Analysis </b> 
+  - [Assessing and Remediating a Vulnerable Windows 10 System](https://github.com/hibahmad30/NessusVulnManagement)
 - <b>Centralized Log Management Solution with Splunk Enterprise </b> 
   - [Integrating AD and Windows Client Logs with Splunk for Monitoring and Analysis](https://github.com/hibahmad30/SplunkConfig)
 - <b>SHA-256 File Integrity Checker in Python </b>
@@ -44,10 +41,10 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 
 <h2>📝 I’m currently working on ... </h2>
 
-- [Okta Certified Professional Hands-On Configuration Exam for OIE](https://certification.okta.com/okta-certified-professional-hands-on-configuration-exam-for-oie/)
-    - [Pluralsight - Okta Certified Professional Learning Path](https://www.pluralsight.com/paths/okta-certified-professional)
-    - [Okta Training - Introduction to Okta Course](https://www.okta.com/training/introduction-to-okta-formerly-okta-basics)
-    - [Okta Docs - Okta Identity Engine](https://help.okta.com/oie/en-us/content/topics/identity-engine/oie-index.htm?cshid=csh-oie)
+- [AWS Certified Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+    - [AWS CCP Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+    - [AWS Cloud Practitioner Essentials Course](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
+    - [AWS Exam Prep Official Pretest](https://explore.skillbuilder.aws/learn/course/external/view/elearning/18115/exam-prep-official-pre-test-aws-certified-cloud-practitioner-clf-c02)
 
 
 <!--
