@@ -14,17 +14,15 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 - <b>Automating AD Bulk User Creation with Powershell</b>
   - [Reducing Administrative Overhead with Automated User Provisioning](https://github.com/hibahmad30/ADAutomation)
 
- 
-<h2>🔎 Splunk Projects</h2>
-
-- <b>Centralized Log Management Solution with Splunk Enterprise </b> 
-  - [Integrating AD and Windows Client Logs with Splunk for Monitoring and Analysis](https://github.com/hibahmad30/SplunkConfig)
-
-
-<h2>🔐 Cybersecurity Projects</h2>
+ <h2>🔎 Vulnerability Management Projects</h2>
 
 - <b>Nessus Vulnerability Management and Analysis </b> 
   - [Assessing and Remediating a Vulnerable Windows 10 System](https://github.com/hibahmad30/NessusVulnManagement)
+ 
+<h2>🔐 Cybersecurity Projects</h2>
+
+- <b>Centralized Log Management Solution with Splunk Enterprise </b> 
+  - [Integrating AD and Windows Client Logs with Splunk for Monitoring and Analysis](https://github.com/hibahmad30/SplunkConfig)
 - <b>SHA-256 File Integrity Checker in Python </b>
   - [Automating File Verification with Hashlib](https://github.com/hibahmad30/FileIntegrityChecker/)
 - <b>Cyber Threat Intelligence: Analysis of APT 12 </b>
