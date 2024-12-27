@@ -1,7 +1,7 @@
 <h1>Hi, I'm Hiba! 👋</h1>
 I am a highly motivated Cybersecurity professional with a passion for technology and building a more secure and innovative future. Leveraging experience in FedRAMP, NIST 800-53, and NIST 800-37 (RMF), I analyze client system architectures to identify security gaps across AWS, Azure, and GCP environments. I'm skilled in developing System Security Plans (SSPs), with additional expertise in Ubuntu, Windows Server, Python scripting, and vulnerability management with Tenable Nessus. I am currently expanding my knowledge in Identity & Access Management (IAM) with Okta, Microsoft Entra ID (Azure AD), and Windows AD. I am always eager to learn and grow!
 
-<h2>🔑 IAM Projects</h2>
+<h2>🔑 Identity & Access Management Projects</h2>
 
 - <b>Integrating Okta and Dropbox Business with SAML</b> 
   - [User Onboarding, SAML Authentication, and Provisioning Automation](https://github.com/hibahmad30/OktaAdministration)
