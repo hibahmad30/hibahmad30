@@ -17,7 +17,7 @@ I am a highly motivated Cybersecurity professional with a passion for technology
  <h2>📊 Vulnerability Management Projects</h2>
  
 - <b>Metasploitable Vulnerability Assessment and Prioritization</b> 
-  - [Scanning and Prioritizing Vulnerabilities in a Vulnerable VM using Nessus](https://github.com/hibahmad30/NessusVulnManagement)
+  - [Scanning and Prioritizing Vulnerabilities in a Vulnerable VM using Nessus](https://github.com/hibahmad30/MetasploitVulnAnalysis)
 - <b>Nessus Vulnerability Management and Analysis </b> 
   - [Assessing and Remediating a Vulnerable Windows 10 System](https://github.com/hibahmad30/NessusVulnManagement)
   
