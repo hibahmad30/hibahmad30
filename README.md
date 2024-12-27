@@ -1,5 +1,5 @@
 <h1>Hi, I'm Hiba! 👋</h1>
-I am a highly motivated Cybersecurity professional with a passion for technology and building a more secure and innovative future. Leveraging experience in FedRAMP, NIST 800-53, and NIST 800-37 (RMF), I analyze client system architectures to identify security gaps across AWS, Azure, and GCP environments. I'm skilled in developing System Security Plans (SSPs), with additional expertise in Ubuntu, Windows Server, Python scripting, and vulnerability management. I am currently expanding my knowledge in Identity & Access Management (IAM) with Okta, Microsoft Entra ID (Azure AD), and Windows AD. I am always eager to learn and grow!
+I am a highly motivated Cybersecurity professional with a passion for technology and building a more secure and innovative future. Leveraging experience in FedRAMP, NIST 800-53, and NIST 800-37 (RMF), I analyze client system architectures to identify security gaps across AWS, Azure, and GCP environments. I'm skilled in developing System Security Plans (SSPs), with additional expertise in Ubuntu, Windows Server, Python scripting, and vulnerability management with Tenable Nessus. I am currently expanding my knowledge in Identity & Access Management (IAM) with Okta, Microsoft Entra ID (Azure AD), and Windows AD. I am always eager to learn and grow!
 
 <h2>🔑 IAM Projects</h2>
 
@@ -14,10 +14,15 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 - <b>Automating AD Bulk User Creation with Powershell</b>
   - [Reducing Administrative Overhead with Automated User Provisioning](https://github.com/hibahmad30/ADAutomation)
  
-<h2>🔐 Cybersecurity Projects</h2>
-
+ <h2>📊 Vulnerability Management Projects</h2>
+ 
+- <b>Metasploitable Vulnerability Assessment and Prioritization</b> 
+  - [Scanning and Prioritizing Vulnerabilities in a Vulnerable VM using Nessus](https://github.com/hibahmad30/NessusVulnManagement)
 - <b>Nessus Vulnerability Management and Analysis </b> 
   - [Assessing and Remediating a Vulnerable Windows 10 System](https://github.com/hibahmad30/NessusVulnManagement)
+  
+<h2>🔐 Cybersecurity Projects</h2>
+
 - <b>Centralized Log Management Solution with Splunk Enterprise </b> 
   - [Integrating AD and Windows Client Logs with Splunk for Monitoring and Analysis](https://github.com/hibahmad30/SplunkConfig)
 - <b>SHA-256 File Integrity Checker in Python </b>
