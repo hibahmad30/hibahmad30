@@ -1,6 +1,15 @@
 <h1>Hi, I'm Hiba! 👋</h1>
 I am a highly motivated Cybersecurity professional with a passion for technology and building a secure, innovative future. With experience in FedRAMP, NIST 800-53, and ISO 27001 internal audits, I specialize in identifying security gaps across AWS, Azure, and GCP environments. I am skilled in developing System Security Plans (SSPs) and have additional expertise in Ubuntu and Python scripting. Currently, I am expanding my knowledge in Vulnerability Management with Tenable Nessus and Nmap, and Identity & Access Management (IAM) with Okta and Microsoft Entra ID (Azure AD). I am always eager to learn and grow! 
 
+ <h2>📊 Vulnerability Management Projects</h2>
+ 
+- <b>Nmap Reconnaissance and Vulnerability Assessment</b> 
+  - [Discovering Open Ports and Security Weaknesses in a Vulnerable Linux VM](https://github.com/hibahmad30/NmapAnalysis)
+- <b>Metasploitable Vulnerability Assessment and Prioritization</b> 
+  - [Scanning and Prioritizing Vulnerabilities in a Vulnerable VM using Nessus](https://github.com/hibahmad30/MetasploitVulnAnalysis)
+- <b>Nessus Vulnerability Management and Analysis </b> 
+  - [Assessing and Remediating a Vulnerable Windows 10 System](https://github.com/hibahmad30/NessusVulnManagement)
+    
 <h2>🔑 Identity & Access Management Projects</h2>
 
 - <b>Integrating Okta and Dropbox Business with SAML</b> 
@@ -13,15 +22,6 @@ I am a highly motivated Cybersecurity professional with a passion for technology
   - [Streamlining Identity Migration to the Cloud](https://github.com/hibahmad30/ActiveDirectoryMigration/)
 - <b>Automating AD Bulk User Creation with Powershell</b>
   - [Reducing Administrative Overhead with Automated User Provisioning](https://github.com/hibahmad30/ADAutomation)
- 
- <h2>📊 Vulnerability Management Projects</h2>
- 
-- <b>Nmap Reconnaissance and Vulnerability Assessment</b> 
-  - [Discovering Open Ports and Security Weaknesses in a Vulnerable Linux VM](https://github.com/hibahmad30/NmapAnalysis)
-- <b>Metasploitable Vulnerability Assessment and Prioritization</b> 
-  - [Scanning and Prioritizing Vulnerabilities in a Vulnerable VM using Nessus](https://github.com/hibahmad30/MetasploitVulnAnalysis)
-- <b>Nessus Vulnerability Management and Analysis </b> 
-  - [Assessing and Remediating a Vulnerable Windows 10 System](https://github.com/hibahmad30/NessusVulnManagement)
   
 <h2>🔐 Cybersecurity Projects</h2>
 
