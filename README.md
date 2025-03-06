@@ -43,6 +43,7 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 
 <h2>✅ Certifications </h2>
 
+- [AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/8b22d5e7-9278-4cf5-bfd0-dd960c81f4c4/public_url)
 - [CompTIA Security+ (July 2023)](https://www.credly.com/badges/d56d4ad1-9aee-4157-bb54-5c0ef0918b14/public_url)
 - [Google IT Support Professional (May 2022)](https://coursera.org/share/06a1535f821a4e59c3df0db2ced95cf6)
 
