@@ -3,7 +3,7 @@ I have a strong passion for cybersecurity and enjoy tackling complex problems th
 
 <h2>🚨 Threat Hunting and Security Operations</h2>
  
-- <b>Threat Hunting Scenario (Tor Browser Usage)</b> 
+- <b>Threat Hunting Scenario (TOR Browser Usage)</b> 
   - [Identifying, Investigating, and Containing Unauthorized TOR Usage](https://github.com/hibahmad30/threat-hunting-scenario-tor)
  
  <h2>📊 Vulnerability Management Projects</h2>
