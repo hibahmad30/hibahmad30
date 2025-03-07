@@ -49,10 +49,10 @@ I am a highly motivated Cybersecurity professional with a passion for technology
 
 <h2>📝 I’m currently working on ... </h2>
 
-- [AWS Certified Cloud Practitioner (CLF-C02)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-    - [AWS CCP Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
-    - [AWS Cloud Practitioner Essentials Course](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials)
-    - [AWS Exam Prep Official Pretest](https://explore.skillbuilder.aws/learn/course/external/view/elearning/18115/exam-prep-official-pre-test-aws-certified-cloud-practitioner-clf-c02)
+- [Splunk Core Certified Power User](https://www.splunk.com/en_us/training/certification-track/splunk-core-certified-power-user.html)
+    - [Exam Overview](https://www.splunk.com/en_us/pdfs/training/splunk-core-certified-power-user-track.pdf)
+    - [Exam Study Guide](https://www.splunk.com/en_us/resources/splunk-certification-exam-study-guide.html)
+    - [Test Blueprint](https://www.splunk.com/en_us/pdfs/training/splunk-test-blueprint-power-user.pdf)
 
 
 <!--
