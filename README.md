@@ -6,7 +6,7 @@ I have a strong passion for cybersecurity and enjoy tackling complex problems th
 - <b>Threat Hunting Scenario (TOR Browser Usage)</b> 
   - [Identifying, Investigating, and Containing Unauthorized TOR Usage](https://github.com/hibahmad30/threat-hunting-scenario-tor)
  
- <h2>📊 Vulnerability Management Projects</h2>
+ <h2>📊 Vulnerability Management</h2>
  
 - <b>Nmap Reconnaissance and Vulnerability Assessment</b> 
   - [Discovering Open Ports and Security Weaknesses in a Vulnerable Linux VM](https://github.com/hibahmad30/NmapAnalysis)
@@ -15,7 +15,7 @@ I have a strong passion for cybersecurity and enjoy tackling complex problems th
 - <b>Nessus Vulnerability Management and Analysis </b> 
   - [Assessing and Remediating a Vulnerable Windows 10 System](https://github.com/hibahmad30/NessusVulnManagement)
     
-<h2>🔑 Identity & Access Management Projects</h2>
+<h2>🔑 Identity & Access Management</h2>
 
 - <b>Integrating Okta and Dropbox Business with SAML</b> 
   - [User Onboarding, SAML Authentication, and Provisioning Automation](https://github.com/hibahmad30/OktaAdministration)
@@ -28,7 +28,7 @@ I have a strong passion for cybersecurity and enjoy tackling complex problems th
 - <b>Automating AD Bulk User Creation with Powershell</b>
   - [Reducing Administrative Overhead with Automated User Provisioning](https://github.com/hibahmad30/ADAutomation)
   
-<h2>🔐 Cybersecurity Projects</h2>
+<h2>🔐 Cybersecurity (Other)</h2>
 
 - <b>Centralized Log Management Solution with Splunk Enterprise </b> 
   - [Integrating AD and Windows Client Logs with Splunk for Monitoring and Analysis](https://github.com/hibahmad30/SplunkConfig)
