@@ -1,5 +1,5 @@
 <h1>Hi, I'm Hiba! 👋</h1>
-I am a highly motivated Cybersecurity professional with a passion for technology and building a secure, innovative future. With experience in FedRAMP, NIST 800-53, and ISO 27001 internal audits, I specialize in identifying security gaps across AWS, Azure, and GCP environments. I am skilled in developing System Security Plans (SSPs) and have additional expertise in Ubuntu and Python scripting. Currently, I am expanding my knowledge in Vulnerability Management with Tenable Nessus and Nmap, and Identity & Access Management (IAM) with Okta and Microsoft Entra ID (Azure AD). I am always eager to learn and grow! 
+I have a strong passion for cybersecurity and enjoy tackling complex problems through practical, hands-on projects. Whether it's improving security operations, vulnerability management, or threat detection, these projects help me stay engaged with the ever-changing cybersecurity landscape. Feel free to check them out and see how they contribute to stronger security practices!
 
 <h2>🚨 Threat Hunting and Security Operations</h2>
  
