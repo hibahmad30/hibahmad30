@@ -8,6 +8,8 @@ I have a strong passion for cybersecurity and enjoy tackling complex problems th
  
  <h2>📊 Vulnerability Management</h2>
 
+- <b>Programmatic STIG Remediations</b>
+  - [Optimizing STIG Compliance with Automated Solutions](https://github.com/hibahmad30/programmatic-vulnerability-remediations)
 - <b>Vulnerability Management Program Implementation</b>
   - [Streamlining Vulnerability Detection, Remediation, and Monitoring](https://github.com/hibahmad30/Vuln-Mgmt-Program)
 - <b>Nmap Reconnaissance and Vulnerability Assessment</b> 
